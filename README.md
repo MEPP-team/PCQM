@@ -1,7 +1,8 @@
 # PCQM
 ---
 
-PCQM, an objective metric for visual quality assessment of colored 3D point clouds.  This full-reference metric is an optimally-weighted linear combination of geometry-based and color-based features. 
+PCQM, an objective metric for visual quality assessment of colored 3D point clouds.  
+This full-reference metric is an optimally-weighted linear combination of geometry-based and color-based features. 
 
 This project is the implementation of our paper "[PCQM: A Full-Reference Quality Metric for Colored 3D Point Clouds](https://hal.archives-ouvertes.fr/hal-02529668v1)"
 
