@@ -32,7 +32,7 @@ Linux :
 		
 ```
 
-Input files can be binaries or text format in the .ply format with the following header format
+Input files can be binaries or plain text in the .ply format with the following header structure : 
 
 ```
 ply
