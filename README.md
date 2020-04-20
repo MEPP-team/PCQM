@@ -29,7 +29,7 @@ Windows :
 	PCQM.exe reference_objet.ply registered_object.ply -r 0.004 -knn 20 -rx 2.0	  
 	
 Linux : 
-	./PC-PCQM reference_objet.ply registered_object.ply -r 0.004 -knn 20 -rx 2.0
+	./PCQM reference_objet.ply registered_object.ply -r 0.004 -knn 20 -rx 2.0
 		
 ```
 
