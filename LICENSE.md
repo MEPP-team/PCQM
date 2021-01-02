@@ -1,6 +1,6 @@
 The PCQM software is Copyright of University of Lyon, 2020.
 
-PCQM is distributed under the GNU Lesser General Public License Version 3.0 (refer to the accompanying file LICENSE-lgpl-3.0.txt or a copy at [https://www.gnu.org/licenses/lgpl-3.0.html](https://www.gnu.org/licenses/lgpl-3.0.html)
+PCQM is distributed under the Mozilla Public License v. 2.0. (refer to the accompanying file LICENSE-MPL2.txt or a copy at http://mozilla.org/MPL/2.0/)
 
 ## PCQM  library dependencies
 
